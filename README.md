@@ -1,4 +1,4 @@
-# Kanban_Board
+# KanbanBoard_exercise
 Tech Stack: React, Node.js(Express.js), and MySQL
 
 <h3>ER Diagram</h3>
